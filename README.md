@@ -7,8 +7,7 @@
 
 > **Authors**  
 > Mingshu Liu, Kaibo Zhang, and Alek Bedard  
-> **Affiliation**: McGill University, COMP551 - Applied Machine Learning  
-> **Date**: October 22, 2024  
+> **Affiliation**: McGill University, This project is carried out under the supervision of Professors [Isabeau Prémont-Schwarz](https://www.cs.mcgill.ca/~isabeau/) and [Reihaneh Rabbany](http://www.reirab.com/). It is a part of the coursework of COMP551 Applied Machine Learning. 
 
 ---
 
